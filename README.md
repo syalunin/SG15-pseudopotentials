@@ -1,5 +1,4 @@
 [![Fortran](https://img.shields.io/badge/Fortran-2003-blue)](https://en.wikipedia.org/wiki/Fortran_2003)
-[![MKL](https://img.shields.io/badge/Intel%20MKL-2023.2-blue)](https://software.intel.com/content/www/us/en/develop/tools/math-kernel-library.html)
 
 # SG15 ONCV pseudopotentials with core states
 
@@ -14,3 +13,9 @@ The original code is available at www.mat-simresearch.com and the procedure for 
 [M. Schlipf and F. Gygi, Computer Physics Communications 196, 36 (2015)](https://www.sciencedirect.com/science/article/pii/S0010465515001897)
 
 [P. Scherpelz, M. Govoni, I. Hamada, G. Galli; J. Chem. Theory Comput. (2016)](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00114)
+
+### Installation
+comming soon...
+
+### Building
+To generate the executables, run the 'make' command in the root directory.

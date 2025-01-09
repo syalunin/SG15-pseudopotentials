@@ -8,11 +8,8 @@ The core wavefunctions are included in the pseudopotential file as a separate se
 
 The original code is available at www.mat-simresearch.com and the procedure for obtaining the pseudopotentials is described in the works:
 
-[1] D. R. Hamann, Phys. Rev. B 88, 085117 (2013) 
-http://link.aps.org/doi/10.1103/PhysRevB.88.085117
+[D. R. Hamann, Phys. Rev. B 88, 085117 (2013)](http://link.aps.org/doi/10.1103/PhysRevB.88.085117)
 
-[2] M. Schlipf and F. Gygi, Computer Physics Communications 196, 36 (2015). 
-http://dx.doi.org/10.1016/j.cpc.2015.05.011.
+[M. Schlipf and F. Gygi, Computer Physics Communications 196, 36 (2015)](http://dx.doi.org/10.1016/j.cpc.2015.05.011.)
 
-[3] P. Scherpelz, M. Govoni, I. Hamada, G. Galli; J. Chem. Theory Comput. (2016) 
-http://dx.doi.org/10.1021/acs.jctc.6b00114".
+[P. Scherpelz, M. Govoni, I. Hamada, G. Galli; J. Chem. Theory Comput. (2016)](http://dx.doi.org/10.1021/acs.jctc.6b00114".)

@@ -9,7 +9,7 @@ The core wavefunctions are written in a separate section of the pseudopotential 
 comming soon...
 
 ### Building
-To generate the executables, run the 'make' command in the root directory.
+To generate the modified code, run the 'make' command in the root directory.
 
 ### Contact
 

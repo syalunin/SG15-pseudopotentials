@@ -12,7 +12,7 @@ The original code can be accessed on [Dr. Hamann's official webpage](http://www.
 
 [M. Schlipf and F. Gygi, Computer Physics Communications 196, 36 (2015)](https://www.sciencedirect.com/science/article/pii/S0010465515001897)
 
-[P. Scherpelz, M. Govoni, I. Hamada, G. Galli; J. Chem. Theory Comput. (2016)](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00114)
+[P. Scherpelz, M. Govoni, I. Hamada, G. Galli, J. Chem. Theory Comput. (2016)](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00114)
 
 ### Installation
 comming soon...

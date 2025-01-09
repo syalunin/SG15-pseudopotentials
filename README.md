@@ -19,4 +19,6 @@ comming soon...
 ### Building
 To generate the executables, run the 'make' command in the root directory.
 
+### Contact
+
 If you have any questions, please feel free to contact me via email at syalunin@users.noreply.github.com

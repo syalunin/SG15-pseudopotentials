@@ -10,6 +10,6 @@ The original code is available at www.mat-simresearch.com and the procedure for 
 
 [D. R. Hamann, Phys. Rev. B 88, 085117 (2013)](http://link.aps.org/doi/10.1103/PhysRevB.88.085117)
 
-[M. Schlipf and F. Gygi, Computer Physics Communications 196, 36 (2015)](http://dx.doi.org/10.1016/j.cpc.2015.05.011.)
+[M. Schlipf and F. Gygi, Computer Physics Communications 196, 36 (2015)](https://www.sciencedirect.com/science/article/pii/S0010465515001897)
 
-[P. Scherpelz, M. Govoni, I. Hamada, G. Galli; J. Chem. Theory Comput. (2016)](http://dx.doi.org/10.1021/acs.jctc.6b00114".)
+[P. Scherpelz, M. Govoni, I. Hamada, G. Galli; J. Chem. Theory Comput. (2016)](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00114)

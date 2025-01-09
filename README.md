@@ -6,15 +6,13 @@ This repository contains the SG15 Optimised Norm-Conserving Vanderbilt (ONCV) ps
 
 The core wavefunctions are included in the pseudopotential file as a separate section GIPAW. The section also contains information about the orbital momentum and the principal quantum number of the orbitals, so that Quantum ESPRESSO can read them and use them in calculations. Theoretically, these wavefunctions can be used to calculate NMR shielding tensors, EFG tensors and other magnetic resonance properties by DFT methods, e.g. as it is implemented in the QE-GIPAW package. However, I have not tested all pseudopotentials for this purpose, so use them at your own risk without any guarantee from my side.
 
-The core states are contained in GIPAW
-PP_GIPAW gipaw_data_format="2">
- <PP_GIPAW_CORE_ORBITALS number_of_core_orbitals="1">
-   <PP_GIPAW_CORE_ORBITAL.1
-       type="real"
-       size="602"
-       columns="4"
-       index="1"
-       label="1S"
-       n="1" l="0">
+The original code is available at www.mat-simresearch.com and the procedure for obtaining the pseudopotentials is described in the works:
 
-The original code is available at www.mat-simresearch.com and the procedure is described in
+D. R. Hamann, Phys. Rev. B 88, 085117 (2013) 
+http://link.aps.org/doi/10.1103/PhysRevB.88.085117
+
+M. Schlipf and F. Gygi, Computer Physics Communications 196, 36 (2015). 
+http://dx.doi.org/10.1016/j.cpc.2015.05.011.
+
+P. Scherpelz, M. Govoni, I. Hamada, G. Galli; J. Chem. Theory Comput. (2016) 
+http://dx.doi.org/10.1021/acs.jctc.6b00114".

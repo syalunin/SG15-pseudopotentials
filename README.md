@@ -13,4 +13,4 @@ comming soon...
 
 ### Contact
 
-If you are interested in this project, don't hesitate to contact me via email syalunin@users.noreply.github.com
+If you are interested in this project, do not hesitate to contact me via email syalunin@users.noreply.github.com

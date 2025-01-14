@@ -13,4 +13,4 @@ comming soon...
 
 ### Contact
 
-If you have any questions, please feel free to contact me via email syalunin@users.noreply.github.com
+If you are interested in this project, please feel free to contact me via email syalunin@users.noreply.github.com

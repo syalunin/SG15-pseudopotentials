@@ -11,7 +11,7 @@ Before compiling this project, make sure that the following tools are installed:
 - Intel MKL
 
 ### Building
-To generate the executables, run the 'make' command in the root directory.
+To generate the executables, run the `make` command in the root directory.
 
 ### Contact
 If you are interested in continuing this project, do not hesitate to contact me via email:

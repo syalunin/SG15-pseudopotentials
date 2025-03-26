@@ -13,6 +13,9 @@ Before compiling this project, make sure that the following tools are installed:
 ### Building
 To generate the executables, run the `make` command in the root directory.
 
+### Runing
+The pseudopotentials with core wavefunctions are generated using shell scripts and the input data provided by the SG15 collection. The script `run.sh` generates pseudopotentials for selected chemical elements, while `run_all.sh` generates pseudopotentials for all elements.
+
 ### Contact
 If you are interested in continuing this project, do not hesitate to contact me via email:
 syalunin@users.noreply.github.com

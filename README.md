@@ -14,7 +14,7 @@ Before compiling this project, make sure that the following tools are installed:
 To generate the executables, run the `make` command in the root directory.
 
 ### Runing
-The script `run.sh` generates pseudopotentials for selected chemical elements, and `run_all.sh` generates pseudopotentials for all elements in the folder `elements`.
+The script `run.sh` generates pseudopotentials with core electrons for selected chemical elements, and `run_all.sh` does the same for all chemical elements.
 
 ### Contact
 If you are interested in continuing this project, do not hesitate to contact me via email:
